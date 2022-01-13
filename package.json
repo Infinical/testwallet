@@ -22,6 +22,8 @@
     "@angular/platform-browser-dynamic": "~11.2.14",
     "@angular/router": "~11.2.14",
     "@metamask/onboarding": "^1.0.1",
+    "@walletconnect/client": "^1.7.1",
+    "@walletconnect/qrcode-modal": "^1.7.1",
     "@walletconnect/web3-provider": "^1.7.1",
     "assert": "^2.0.0",
     "crypto-browserify": "^3.12.0",
