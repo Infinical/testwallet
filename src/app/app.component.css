@@ -1,0 +1,11 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 40vw;
+    margin-top: 10vh;
+}
+
+.btn-cont {
+    margin: 2vh;
+}
